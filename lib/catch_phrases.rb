@@ -12,3 +12,8 @@ def link
   say = "It's Dangerous To Go Alone! Take This."
   puts say 
 end 
+
+def any_phrase 
+  phrase1 = "Do A Barrel Roll!"
+  puts phrase1
+end  
