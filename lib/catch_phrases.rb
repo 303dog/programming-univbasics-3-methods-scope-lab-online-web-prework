@@ -14,7 +14,7 @@ def link
 end 
 
 def any_phrase 
-  phrase1 = "Do A Barrel Roll!/n"
+  phrase1 = "Do A Barrel Roll!"
   puts phrase1
 end 
 end 
